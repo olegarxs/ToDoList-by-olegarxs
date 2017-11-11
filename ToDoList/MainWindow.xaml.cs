@@ -86,7 +86,6 @@ namespace ToDoList
                         TextWrapping = TextWrapping.Wrap,
                         Width = 155
                     };
-
                     CheckBox cb = new CheckBox()
                     {
                         Content = tb,
@@ -96,7 +95,11 @@ namespace ToDoList
                         IsChecked = !param
                     };
                     if (param == true) cb.Checked += cb_CheckedChanged;
-                    else cb.Unchecked += cbFalse_CheckedChanged;
+                    else {
+                        cb.Unchecked += cbFalse_CheckedChanged;
+                        tb.TextDecorations = TextDecorations.Strikethrough;
+                        tb.Foreground = new SolidColorBrush(Color.FromRgb(50, 50, 50));
+                    }
                     
                     Main.Children.Add(cb);
                 }
