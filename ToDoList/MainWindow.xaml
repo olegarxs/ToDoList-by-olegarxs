@@ -24,29 +24,10 @@
             </Button.Clip>
         </Button>
         <TextBox x:Name="note" Grid.Row="0" HorizontalAlignment="Left" TextWrapping="NoWrap" Visibility="Hidden"   Height="45" Text="Заметка" VerticalAlignment="Top" Width="292" VerticalContentAlignment="Center" Padding="5,0,50,0" FontSize="16" Margin="0,13,0,0" KeyUp="note_KeyUp"/>
-        
         <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
-            <StackPanel x:Name="Main">
-           
-            </StackPanel>
+            <StackPanel x:Name="Main"/>
         </ScrollViewer>
-        <Button x:Name="buttonCompleted" Grid.Row="2" Content="Просмотреть завершенные"  Background="#f92525" HorizontalContentAlignment="Center" FontSize="16" Foreground="White" Width="294" Click="buttonCompleted_Click" >
-            <Button.Style>
-                <Style TargetType="Button">
-                    <Setter Property="Background" Value="Yellow"/>
-                    <Style.Triggers>
-                        <Trigger Property="IsMouseOver" Value="True">
-                            <Setter Property="Background" Value="Black"/>
-                        </Trigger>
-                    </Style.Triggers>
-                </Style>
-            </Button.Style>
-        </Button>
-        <StackPanel x:Name="Completed" Grid.Row="1" Visibility="Hidden">
-
-
-        </StackPanel>
+        <Button x:Name="buttonCompleted" Grid.Row="2" Content="Просмотреть завершенные"  Background="#f92525" HorizontalContentAlignment="Center" FontSize="16" Foreground="White" Width="294" Click="buttonCompleted_Click" />
     </Grid>
-    
-
+   
 </Window>

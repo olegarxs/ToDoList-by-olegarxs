@@ -162,7 +162,5 @@ namespace ToDoList
                 state = false;
             }
         }
-
     }
-    
 }
