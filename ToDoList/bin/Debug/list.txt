@@ -1,0 +1,30 @@
+True|hello
+True|lol
+False|oleg
+False|gsgfdhggfd
+False|hello
+False|dgdfg
+False|dghdfgh
+False|oleg
+False|guju
+False|fsdfds
+False|fdhfdgh
+False|fghfgh
+False|dfdsf
+False|dfgfdg
+False|dfsgfg
+False|oleg
+False|oleg
+False|gdfg
+False|gdfg
+False|gdfgdf
+False|sdfdsf
+False|gfdgdfg
+False|dfgfdh
+False|Заметка
+False|55
+True|п аппвыа пва авыпвапавы  выавпапвыа
+True|игорь игорь игорь игорь игорь игорь
+False|System.Windows.Controls.TextBlock
+False|System.Windows.Controls.TextBlock
+True|Руддщ

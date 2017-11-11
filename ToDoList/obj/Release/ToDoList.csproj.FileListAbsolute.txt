@@ -1,0 +1,14 @@
+D:\MyProject\C#\ToDoList\ToDoList\bin\Release\ToDoList.exe.config
+D:\MyProject\C#\ToDoList\ToDoList\bin\Release\ToDoList.exe
+D:\MyProject\C#\ToDoList\ToDoList\bin\Release\ToDoList.pdb
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\MainWindow.baml
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\MainWindow.g.cs
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\App.g.cs
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList_MarkupCompile.cache
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.g.resources
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.Properties.Resources.resources
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.csproj.GenerateResource.Cache
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.exe
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.pdb
+D:\MyProject\C#\ToDoList\ToDoList\obj\Release\ToDoList.csprojResolveAssemblyReference.cache
